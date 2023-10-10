@@ -1,0 +1,5 @@
+Inline Styles: Add styles directly to HTML elements using the style attribute.
+Internal Styles: Place CSS code within <style> tags in the HTML <head> section.
+External Styles: Store CSS code in a separate file and link it to HTML using <link> in the <head>.
+Selectors: Use selectors to target HTML elements for styling by type, class, or ID.
+Responsive Design: Make your webpage adapt to different devices and screen sizes using media queries in CSS.

@@ -1,0 +1,3 @@
+In CSS, a property is a characteristic of an HTML element that you want to style. Properties can include things like 
+color, font-size, margin, padding, border, etc. Each property has associated values, which define how the property
+ should be styled

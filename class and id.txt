@@ -1,0 +1,7 @@
+<div class="dummy" id="name"> Sathish </div>
+
+
+dummy is class 
+name is id here 
+
+it is used for style the seperate class and and id

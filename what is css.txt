@@ -1,0 +1,6 @@
+CSS, or Cascading Style Sheets, is a stylesheet language used for describing the look and formatting of a document written 
+in HTML or XML. It controls the visual presentation of web pages, defining layout, colors, fonts, and spacing to enhance
+ the user experience. CSS separates content from design, allowing web developers to create responsive and visually 
+appealing websites. By applying styles to HTML elements, CSS ensures consistent and customizable design across various 
+devices and screen sizes. It plays a fundamental role in web development, enabling the creation of aesthetically 
+pleasing and user-friendly interfaces on the internet.
